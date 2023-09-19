@@ -1,6 +1,7 @@
 # main.py
 # IS4010 required documentation here
 
+
 from AnotherPackage.functions import *
 
 if __name__ == "__main__":
